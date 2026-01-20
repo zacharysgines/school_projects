@@ -1,1 +1,1 @@
-
+Project done for Advanced Python Programming course at Utah State University. In this project, I built a Python program to retrieve current exchange rates between cryptocurrencies from CoinGecko, then determine the path of trading that yields the greatest return (i.e., trading from currency 1 to currency 2 to currency 3, then back to currency 2 to currency 1 gives me more money than I started with). The program then sends a paper trading request to Alpaca. Program built to run automatically every morning at 9:00 AM. Done in Python on AWS EC2 Ubuntu server. 
