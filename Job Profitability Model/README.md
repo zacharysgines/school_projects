@@ -1,0 +1,1 @@
+Project for Advanced Machine Learning and Regression course at Utah State University. In this project, I analyze several factors for a large restoration company's jobs to build a regression model to predict the profitability of a job. Done using Python in Jupyter Lab.
